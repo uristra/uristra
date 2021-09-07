@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uristra
-- 👀 I’m interested in Bubble and fantasy football
+- 👀 I’m interested in Bubble, fantasy football, and communism
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on fantasy football-related projects.
 - 📫 How to reach me uristra@gmail.com
